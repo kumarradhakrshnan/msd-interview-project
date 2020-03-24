@@ -55,7 +55,7 @@ In my case, I would be manually setting up the hadoop ecosystem as the following
 	> npm start
 
 	Once done, install the Advanced Rest Client plugin for Chrome which will aid in calling REST Services.
-	Finally, when you are done setting up the ReactJS component and putting the relevant changes as given in the GitHub URL. Run the following url to see the result.
+	Finally, when you are done setting up the ReactJS component and putting the relevant changes as given in the GitHub URL. Run the following url to see the result. Please note that the modules have been skipped while checking in the code.
 
 	http://localhost:3000/
 
