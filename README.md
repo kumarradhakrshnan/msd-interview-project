@@ -44,15 +44,15 @@ In my case, I would be manually setting up the hadoop ecosystem as the following
 
 4) For the front end, ReactJS has been used. For setting up ReactJs in your machine, steps as the following needs to be executed.
 
-	npx create-react-app msd-reactjs
+	> npx create-react-app msd-reactjs
 	
-	cd my-app
+	> cd my-app
 	
-	npm add axios
+	> npm add axios
 	
-	npm add react-router-dom
+	> npm add react-router-dom
 	
-	npm start
+	> npm start
 
 	Once done, install the Advanced Rest Client plugin for Chrome which will aid in calling REST Services.
 	Finally, when you are done setting up the ReactJS component and putting the relevant changes as given in the GitHub URL. Run the following url to see the result.
