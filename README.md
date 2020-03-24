@@ -58,3 +58,6 @@ In my case, I would be manually setting up the hadoop ecosystem as the following
 	Finally, when you are done setting up the ReactJS component and putting the relevant changes as given in the GitHub URL. Run the following url to see the result.
 
 	http://localhost:3000/
+
+
+Refer to the "Diagram and Output.docx" for Architecture diagram and Output.
