@@ -60,4 +60,4 @@ In my case, I would be manually setting up the hadoop ecosystem as the following
 	http://localhost:3000/
 
 
-Refer to the "Diagram and Output.docx" for Architecture diagram and Output.
+5) Refer to the "Diagram and Output.docx" for Architecture diagram and Output.
